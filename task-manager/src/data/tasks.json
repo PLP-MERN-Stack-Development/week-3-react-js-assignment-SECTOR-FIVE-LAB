@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Complete React assignment",
+    "completed": false,
+    "createdAt": "2025-07-27T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Review Tailwind CSS documentation",
+    "completed": true,
+    "createdAt": "2025-07-26T15:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Submit GitHub Classroom repository",
+    "completed": false,
+    "createdAt": "2025-07-28T08:00:00Z"
+  }
+]

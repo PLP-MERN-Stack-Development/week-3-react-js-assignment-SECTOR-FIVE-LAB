@@ -1,0 +1,25 @@
+{
+  "name": "responsive-react-app",
+  "version": "1.0.0",
+  "description": "A responsive React application demonstrating component-based architecture, state management with hooks, Context API for theme, and API integration.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "tailwindcss": "^2.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
